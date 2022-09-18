@@ -11,4 +11,4 @@ For a more detailed explanation, please follow the post on [christianpenrod.com]
 - Install dependencies: `npm install`
 - Run the development server: `npm run dev`
 
-[post]: [https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints]
+[post]: https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints
