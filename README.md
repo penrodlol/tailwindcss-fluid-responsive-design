@@ -1,6 +1,6 @@
 # Tailwind CSS Fluid Responsive Design
 
-This project is a showcase Fluid Responsive Design within Tailwind CSS.
+This project is a showcase of Fluid Responsive Design within Tailwind CSS.
 
 For a more detailed explanation, please follow the post on [christianpenrod.com][post]
 
